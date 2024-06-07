@@ -1,1 +1,1 @@
-Super Sales Report Dashboard
+Super Store Sales Report 
